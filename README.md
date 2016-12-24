@@ -13,5 +13,4 @@ application;
 
 MultiVNC application is embedded.
 
-![alt text](thinClienImage.jpg =100x20)
-![alt text](app/image/diagram.png)
+![alt text](thinClienImage.jpg)
