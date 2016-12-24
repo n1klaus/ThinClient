@@ -12,3 +12,5 @@ application;
 * upon termination of the session, suspends or shuts down the virtual machine.
 
 MultiVNC application is embedded.
+
+![alt text](thinClienImage.jpg)
