@@ -14,4 +14,3 @@ application;
 MultiVNC application is embedded.
 
 ![alt text](thinClienImage.jpg)
-![schematics](https://github.com/wane1994/ThinClient/thinClientImage.jpg)
