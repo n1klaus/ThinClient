@@ -13,4 +13,4 @@ application;
 
 MultiVNC application is embedded.
 
-<a href="url"><img src="https://github.com/wane1994/ThinClient/blob/master/thinClienImage.jpg" align="left" height="300" width="200" ></a>
+<a href="url"><img src="https://github.com/wane1994/ThinClient/blob/master/thinClienImage.jpg" align="left" height="350" width="200" ></a>
