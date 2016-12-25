@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ivan/mcc-2016-g13-p1/ThinClientG13-mobile/app/build/intermediates/res/merged/debug/menu/mainmenuactivitymenu.xml",
+        "source": "/Users/ivan/mcc-2016-g13-p1/ThinClientG13-mobile/app/src/main/res/menu/mainmenuactivitymenu.xml"
+    },
+    {
+        "merged": "/Users/ivan/mcc-2016-g13-p1/ThinClientG13-mobile/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/ivan/mcc-2016-g13-p1/ThinClientG13-mobile/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/ivan/mcc-2016-g13-p1/ThinClientG13-mobile/app/build/intermediates/res/merged/debug/menu/vnccanvasactivitymenu.xml",
+        "source": "/Users/ivan/mcc-2016-g13-p1/ThinClientG13-mobile/app/src/main/res/menu/vnccanvasactivitymenu.xml"
+    }
+]
