@@ -1,0 +1,7 @@
+#Wed Apr 05 21:56:27 EEST 2017
+base.0=/Users/ivan/Downloads/ShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29f52242012a0b8ef1682160249413ba6394f55d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ivan/Downloads/ShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_179dc965b6c0e6f07ef55f05c9caa93b956ef345/classes.dex
+base.1=/Users/ivan/Downloads/ShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_179dc965b6c0e6f07ef55f05c9caa93b956ef345
+file.0=/Users/ivan/Downloads/ShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29f52242012a0b8ef1682160249413ba6394f55d/classes.dex
